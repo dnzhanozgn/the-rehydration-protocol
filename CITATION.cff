@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "The Rehydration Protocol:  Deterministic Runtime Intervention for Safe and Efficient Long-Horizon LLM Interactions"
+authors: 
+  - family-names: "Özgün"
+    given-names: "Denizhan"
+    affiliation: "BeyondIQ Labs, Cognitive Systems Research Division"
+    email: "contact@beyondiqlabs. com"
+date-released: 2025-12-25
+url: "https://github.com/dnzhanozgn/The-Rehydration-Protocol"
+keywords:
+  - LLM Safety
+  - Runtime Intervention
+  - Context Management
+  - Behavioral Cascades
+  - KV Cache Optimization
+license: CC-BY-NC-SA-4.0
