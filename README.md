@@ -88,9 +88,9 @@ CKS = 0.35·SCS + 0.25·|SED| + 0.20·FLC_norm + 0.20·(1-GS)
 ## Quick Start
 
 ### For Researchers
-1. Read the [full paper](./The_Rehydration_Protocol__Deterministic_Runtime_Intervention_for_Safe_and_Efficient_Long_Horizon_LLM_Interactions.pdf)
+1. Read the [full paper](./The_Rehydration_Protocol__Deterministic_Runtime_Intervention_for_Safe_and_Efficient_Long_Horizon_LLM_Interactions__v1.0.pdf)
 2. Review [CASCADE_ANALYSIS.md](./CASCADE_ANALYSIS.md) for methodology and case studies
-3. Contact for anonymized data access: research@beyondiq-labs.com
+3. Contact for anonymized data access: contact@beyondiqlabs.com
 
 ### For Implementation
 ```bash
@@ -138,7 +138,7 @@ npm run dev
 
 **Author:** Denizhan Özgün  
 **Affiliation:** BeyondIQ Labs  
-**Email:** research@beyondiq-labs.com
+**Email:** contact@beyondiqlabs.com
 
 ---
 
